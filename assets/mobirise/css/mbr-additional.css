@@ -1820,7 +1820,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-sidhRYSdnq {
-  background-image: url("../../../assets/images/joao-tzanno-1nacmxqfpza-unsplash-2000x1333.jpg");
+  background-image: url("../../../assets/images/trois-singes-2000x1333.jpg");
 }
 .cid-sidhRYSdnq .media-container-column .btn-bgr {
   z-index: 0;
@@ -2457,7 +2457,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-sieIRbxuVf {
-  background-image: url("../../../assets/images/mikhail-pavstyuk-eky2otrpxdw-unsplash-2000x1125.jpg");
+  background-image: url("../../../assets/images/legal-2000x1125.jpg");
 }
 .cid-sieIRbxuVf .media-container-column .btn-bgr {
   z-index: 0;
@@ -3098,7 +3098,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-sjdueiDQCV {
-  background-image: url("../../../assets/images/osama-elsayed-vqrmxgvtgxm-unsplash-2000x1125.jpg");
+  background-image: url("../../../assets/images/sommets-2000x1125.jpg");
 }
 .cid-sjdueiDQCV .media-container-column .btn-bgr {
   z-index: 0;
@@ -3915,7 +3915,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-sjdwrAga9l {
-  background-image: url("../../../assets/images/frankie-k-qhbeeopjcdq-unsplash-2000x1333.jpg");
+  background-image: url("../../../assets/images/attrape-reve-2000x1333.jpg");
 }
 .cid-sjdwrAga9l .media-container-column .btn-bgr {
   z-index: 0;
@@ -4674,7 +4674,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-si7LpYRHLk {
-  background-image: url("../../../assets/images/remi-jacquaint-vswc5hs7-ag-unsplash-2000x1349.jpg");
+  background-image: url("../../../assets/images/route-du-succes-2000x1349.jpg");
 }
 .cid-si7LpYRHLk .media-container-column .btn-bgr {
   z-index: 0;
@@ -4899,60 +4899,66 @@ section.lazy-placeholder:after {
 .cid-szfUDWEybv .mbr-timeline-text {
   color: #efedf3;
 }
-.cid-szfZXCiomi {
+.cid-sC2OqShOXR {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background: #ffffff;
 }
-.cid-szfZXCiomi img {
-  width: 65%;
-  pointer-events: all;
+.cid-sC2OqShOXR .images-container.container-fluid {
+  padding: 0;
 }
-.cid-szfZXCiomi .row {
+.cid-sC2OqShOXR .media-container-row {
+  margin: 0 auto;
+  -webkit-align-items: center;
+  align-items: center;
+}
+.cid-sC2OqShOXR .media-container-row .img-item {
+  display: flex;
+  -webkit-flex-direction: column;
+  flex-direction: column;
+  -webkit-justify-content: center;
   justify-content: center;
-}
-.cid-szfZXCiomi .img1 {
-  position: absolute;
-  left: -8rem;
-  top: 5rem;
-  z-index: 4;
+  position: relative;
   width: 100%;
-  pointer-events: none;
+  z-index: 1;
 }
-.cid-szfZXCiomi .img2 {
-  position: absolute;
-  top: 0rem;
-  left: 0rem;
+.cid-sC2OqShOXR .media-container-row .img-item img {
   width: 100%;
-  pointer-events: none;
 }
-.cid-szfZXCiomi .img3 {
+.cid-sC2OqShOXR .media-container-row .img-item .img-caption {
+  background: #ffffff;
+  z-index: 2;
+  padding: 1rem 1rem;
+  word-break: break-word;
   position: absolute;
-  top: 12rem;
-  right: -8rem;
-  width: 100%;
-  pointer-events: none;
+  left: 0;
+  bottom: 0;
+  right: 0;
 }
-.cid-szfZXCiomi .item {
-  height: 600px;
-  text-align: center;
-  overflow: hidden;
+.cid-sC2OqShOXR .media-container-row .img-item .img-caption p {
+  margin-bottom: 0;
 }
-@media (max-width: 767px) {
-  .cid-szfZXCiomi .img1 {
-    left: -2rem;
-    top: 5rem;
+.cid-sC2OqShOXR .media-container-row .img-item.item1 {
+  padding: 0 2rem 0 0;
+}
+.cid-sC2OqShOXR .media-container-row .img-item.item1 .img-caption {
+  right: 2rem;
+}
+@media (max-width: 992px) {
+  .cid-sC2OqShOXR .img-item {
+    width: 100% !important;
   }
-  .cid-szfZXCiomi .img2 {
-    top: 0rem;
-    left: 0rem;
+  .cid-sC2OqShOXR .img-item.item1 {
+    width: 100%;
+    -webkit-flex-basis: initial !important;
+    flex-basis: initial !important;
+    padding: 0 0 2rem 0 !important;
   }
-  .cid-szfZXCiomi .img3 {
-    top: 8rem;
-    right: -2rem;
-  }
-  .cid-szfZXCiomi .item {
-    height: 300px;
+}
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+  .cid-sC2OqShOXR .media-container-row .img-item {
+    -webkit-flex-direction: row;
+    flex-direction: row;
   }
 }
 .cid-sgxxWvZH5N {
@@ -5528,7 +5534,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-szmE8Znvsk {
-  background-image: url("../../../assets/images/mbr-1920x1440.jpg");
+  background-image: url("../../../assets/images/contrat-1920x1440.jpg");
 }
 .cid-szmE8Znvsk .media-container-column .btn-bgr {
   z-index: 0;
@@ -5971,7 +5977,7 @@ section.lazy-placeholder:after {
   text-align: left;
 }
 .cid-slOIkfZEG6 {
-  background-image: url("../../../assets/images/mbr-1920x1281.jpg");
+  background-image: url("../../../assets/images/stats-1920x1281.jpg");
 }
 .cid-slOIkfZEG6 .media-container-column .btn-bgr {
   z-index: 0;
@@ -7343,7 +7349,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-seKNEZhtUh {
-  background-image: url("../../../assets/images/henry-co-3cokbdfnafg-unsplash-2000x1333.jpg");
+  background-image: url("../../../assets/images/entrepreneur-renovation-2000x1333.jpg");
 }
 .cid-seKNEZhtUh .media-content .btn-bgr {
   z-index: 0;
@@ -8051,7 +8057,7 @@ section.lazy-placeholder:after {
 .cid-sgM7SV8Yob {
   padding-top: 75px;
   padding-bottom: 75px;
-  background-image: url("../../../assets/images/philipp-berndt-5i0gnottjse-unsplash-2000x1440.jpg");
+  background-image: url("../../../assets/images/porte-contact-2000x1440.jpg");
 }
 .cid-sgM7SV8Yob .mbr-overlay {
   background-color: #363342;
