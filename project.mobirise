@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "RénoVision marketing -V2",
-    "currentPage": "index.html",
+    "currentPage": "checklist.html",
     "theme": {
       "name": "agencym4",
       "title": "AgencyM4",
@@ -75,7 +75,7 @@
       "email": "teamrenovision@gmail.com",
       "currency": "EUR"
     },
-    "mbrsiteDomain": "gxugzw0r1n",
+    "mbrsiteDomain": "5l43z6qehj",
     "PWA": {
       "enabled": false
     },
@@ -92,7 +92,7 @@
       "opacity": "99",
       "opacityOverlay": "80",
       "text": "Nous utilisons des cookies pour vous offrir la meilleure expérience. Lisez notre <a href='respect-de-la-vie-privée.html'>politique de confidentialité</a>.",
-      "textButton": " J'accepte"
+      "textButton": "ok"
     },
     "google-analytics": "<script type=\"text/javascript\">\n    (function(e,t,o,n,p,r,i){e.visitorGlobalObjectAlias=n;e[e.visitorGlobalObjectAlias]=e[e.visitorGlobalObjectAlias]||function(){(e[e.visitorGlobalObjectAlias].q=e[e.visitorGlobalObjectAlias].q||[]).push(arguments)};e[e.visitorGlobalObjectAlias].l=(new Date).getTime();r=t.createElement(\"script\");r.src=o;r.async=true;i=t.getElementsByTagName(\"script\")[0];i.parentNode.insertBefore(r,i)})(window,document,\"https://diffuser-cdn.app-us1.com/diffuser/diffuser.js\",\"vgo\");\n    vgo('setAccount', '801063491');\n    vgo('setTrackByDefault', true);\n\n    vgo('process');\n</script>"
   },
@@ -12447,7 +12447,7 @@
         }
       ]
     },
-    "page13.html": {
+    "checklist.html": {
       "settings": {
         "title": "Checklist",
         "order": 4,
